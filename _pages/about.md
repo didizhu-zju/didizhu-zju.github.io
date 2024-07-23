@@ -37,6 +37,34 @@ Recent News
 - 05 / 2022: One paper has been accepted to IJCAI 2021 FL Workshop.
 
 
+Publications
+======
+
+### Refereed Publications
+
+- Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models. [[paper]](https://arxiv.org/abs/2402.12048)
+**Didi Zhu**, Zhongyisun Sun, Zexi Li, Tao Shen, Ke Yan, Shouhong Ding, Chao Wu, Kun Kuang
+*ICML 2023*
+- Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models. [[paper]](https://arxiv.org/abs/2306.15955)
+**Didi Zhu**, Zexi Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Kun Kuang, Chao Wu
+*KDD 2023*
+- Universal domain adaptation via compressive attention matching. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Universal_Domain_Adaptation_via_Compressive_Attention_Matching_ICCV_2023_paper.pdf)
+**Didi Zhu**, Yinchuan Li, Junkun Yuan, Zexi Li, Kun Kuang, Chao Wu
+*ICCV 2023*
+- Generalized Universal Domain Adaptation with Generative Flow Networks. [[paper]](https://arxiv.org/abs/2305.04466)
+**Didi Zhu**, Yinchuan Li, Yunfeng Shao, Jianye Hao, Fei Wu, Kun Kuang, Jun Xiao, Chao Wu
+*ACM Multimedia (MM) 2023*
+- Ensemble federated adversarial training with non-iid data. [[paper]](https://arxiv.org/abs/2110.14814)
+Shuang Luo, **Didi Zhu**, Zexi Li, Chao Wu
+*International Joint Conferences on Artificial Intelligence (IJCAI) FL workshop 2021*
+- Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization. [[paper]](https://arxiv.org/abs/2305.15889)
+Yunze Tong, Junkun Yuan, Min Zhang, **Didi Zhu**, Keli Zhang, Fei Wu, Kun Kuang
+*KDD 2023*
+- Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954190)
+Zexi Li, Jiaxun Lu, Shuang Luo, **Didi Zhu**, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, Chao Wu
+*IEEE Transactions on Big Data*
+
+
 Projects
 ======
 
@@ -62,33 +90,6 @@ Projects
     * This research has been accepted at ACM Multimedia 2023.
 
 
-
-Publications
-======
-
-### Refereed Publications
-
-- Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models. [[paper]](https://arxiv.org/abs/2402.12048)
-**Didi Zhu, Zhongyisun Sun, Zexi Li, Tao Shen, Ke Yan, Shouhong Ding, Chao Wu, Kun Kuang
-*ICML 2023*
-- Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models. [[paper]](https://arxiv.org/abs/2306.15955)
-**Didi Zhu, Zexi Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Kun Kuang, Chao Wu
-*KDD 2023*
-- Universal domain adaptation via compressive attention matching. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Universal_Domain_Adaptation_via_Compressive_Attention_Matching_ICCV_2023_paper.pdf)
-**Didi Zhu**, Yinchuan Li, Junkun Yuan, Zexi Li, Kun Kuang, Chao Wu
-*ICCV 2023*
-- Generalized Universal Domain Adaptation with Generative Flow Networks. [[paper]](https://arxiv.org/abs/2305.04466)
-**Didi Zhu**, Yinchuan Li, Yunfeng Shao, Jianye Hao, Fei Wu, Kun Kuang, Jun Xiao, Chao Wu
-*ACM Multimedia (MM) 2023*
-- Ensemble federated adversarial training with non-iid data. [[paper]](https://arxiv.org/abs/2110.14814)
-Shuang Luo, **Didi Zhu**, Zexi Li, Chao Wu
-*International Joint Conferences on Artificial Intelligence (IJCAI) FL workshop 2021*
-- Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization. [[paper]](https://arxiv.org/abs/2305.15889)
-Yunze Tong, Junkun Yuan, Min Zhang, **Didi Zhu**, Keli Zhang, Fei Wu, Kun Kuang
-*KDD 2023*
-- Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954190)
-Zexi Li, Jiaxun Lu, Shuang Luo, **Didi Zhu**, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, Chao Wu
-*IEEE Transactions on Big Data*
 
 
 
