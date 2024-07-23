@@ -24,10 +24,12 @@ Research Interest
 
 Recent News
 ======
-
+- Looking for a Postdoc position starting in 2025!
+- 05 / 2024: One first-author paper has been accepted to KDD 2024.
+- 05 / 2024: One first-author paper has been accepted to ICML 2024.
 - 08 / 2023: One paper about prompt learning is online.
-- 07 / 2023: One paper has been accepted to ICCV 2023.
-- 07 / 2023: One paper has been accepted to ACM Multimedia 2023.
+- 07 / 2023: One first-author paper has been accepted to ICCV 2023.
+- 07 / 2023: One first-author paper has been accepted to ACM Multimedia 2023.
 - 05 / 2023: One paper has been accepted to KDD 2023.
 - 11 / 2022: One paper has been accepted to IEEE Transactions on Big Data.
 - 10 / 2022: I have passed the Mid-term Assessment of Doctoral Program.
@@ -39,7 +41,7 @@ Projects
 ======
 
 * ### Catastrophic Forgetting in Multi-Modal Large Language Models
-    * Sep 2023-Present in Tencent Youtu Lab
+    * Sep 2023-Fed 2024 in Tencent Youtu Lab
     * Pioneered the first comprehensive exploration and revelation of catastrophic forgetting in MLLMs such as InstructBLIP and LLaVa. 
     * Addressed the issue through an innovative training-free model grafting technique.
 
@@ -66,9 +68,15 @@ Publications
 
 ### Refereed Publications
 
+- Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models. [[paper]](https://arxiv.org/abs/2402.12048)
+**Didi Zhu, Zhongyisun Sun, Zexi Li, Tao Shen, Ke Yan, Shouhong Ding, Chao Wu, Kun Kuang
+*ICML 2023*
+- Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models. [[paper]](https://arxiv.org/abs/2306.15955)
+**Didi Zhu, Zexi Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Kun Kuang, Chao Wu
+*KDD 2023*
 - Universal domain adaptation via compressive attention matching. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Universal_Domain_Adaptation_via_Compressive_Attention_Matching_ICCV_2023_paper.pdf)
 **Didi Zhu**, Yinchuan Li, Junkun Yuan, Zexi Li, Kun Kuang, Chao Wu
-*International Conference on Computer Vision (ICCV) 2023*
+*ICCV 2023*
 - Generalized Universal Domain Adaptation with Generative Flow Networks. [[paper]](https://arxiv.org/abs/2305.04466)
 **Didi Zhu**, Yinchuan Li, Yunfeng Shao, Jianye Hao, Fei Wu, Kun Kuang, Jun Xiao, Chao Wu
 *ACM Multimedia (MM) 2023*
@@ -77,15 +85,10 @@ Shuang Luo, **Didi Zhu**, Zexi Li, Chao Wu
 *International Joint Conferences on Artificial Intelligence (IJCAI) FL workshop 2021*
 - Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization. [[paper]](https://arxiv.org/abs/2305.15889)
 Yunze Tong, Junkun Yuan, Min Zhang, **Didi Zhu**, Keli Zhang, Fei Wu, Kun Kuang
-*ACM SIGKDD Conference (KDD) 2023*
+*KDD 2023*
 - Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954190)
 Zexi Li, Jiaxun Lu, Shuang Luo, **Didi Zhu**, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, Chao Wu
 *IEEE Transactions on Big Data*
-
-### Preprints
-
-- Understanding Prompt Tuning for V-L Models Through the Lens of Neural Collapse. [[paper]](https://arxiv.org/abs/2306.15955)
-**Didi Zhu**, Zexi Li, Min Zhang, Junkun Yuan, Yunfeng Shao, Jiashuo Liu, Kun Kuang, Yinchuan Li, Chao Wu
 
 
 
