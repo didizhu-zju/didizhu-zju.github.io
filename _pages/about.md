@@ -44,10 +44,10 @@ Publications
 
 - Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models. [[paper]](https://arxiv.org/abs/2402.12048)
 **Didi Zhu**, Zhongyisun Sun, Zexi Li, Tao Shen, Ke Yan, Shouhong Ding, Chao Wu, Kun Kuang
-*ICML 2023*
+*ICML 2024*
 - Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models. [[paper]](https://arxiv.org/abs/2306.15955)
 **Didi Zhu**, Zexi Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Kun Kuang, Chao Wu
-*KDD 2023*
+*KDD 2024*
 - Universal domain adaptation via compressive attention matching. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Universal_Domain_Adaptation_via_Compressive_Attention_Matching_ICCV_2023_paper.pdf)
 **Didi Zhu**, Yinchuan Li, Junkun Yuan, Zexi Li, Kun Kuang, Chao Wu
 *ICCV 2023*
